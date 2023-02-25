@@ -1,6 +1,6 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://rp1-rudrapramanik.vercel.app/"><img src="/src/profile_banner.gif"></a>
+<a href="https://rp1-rudrapramanik.vercel.app/"><img src="/src/"></a>
 
 - 📖 Pursuing my Bachelor's in Engineering from [HSTU](https://hstu.ac.bd/).
 
@@ -30,7 +30,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 	<!-- <a href="https://asmit.bio.link/">
 		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 	</a> -->
-        <a href="mailto:asmitbm2952002@gmail.com">
+        <a href="mailto:rudrahimangshoo2020@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
