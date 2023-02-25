@@ -4,7 +4,7 @@
 
 - 📖 Pursuing my Bachelor's in Engineering from [HSTU](https://hstu.ac.bd/).
 
-- 🎓 Currently a Lead at [GDSC BVP Pune](https://gdsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/).
+- 🎓 Currently Frontend developer at [Amsterdam, Netherlands](https://www.linkedin.com/company/white-citadel/).
 
 - 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate.
 
