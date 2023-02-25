@@ -1,6 +1,6 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://rp1-rudrapramanik.vercel.app/"><img src="/src/"></a>
+<!-- <a href="https://rp1-rudrapramanik.vercel.app/"><img src="/src/"></a> -->
 
 - 📖 Pursuing my Bachelor's in Engineering from [HSTU](https://hstu.ac.bd/).
 
