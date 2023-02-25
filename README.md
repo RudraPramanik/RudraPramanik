@@ -18,9 +18,9 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 	<a href="https://www.linkedin.com/in/rudra-pramanik99/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<!-- <a href="https://twitter.com/Asmit_2952">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
+	</a> -->
 	<a href="https://rp1-rudrapramanik.vercel.app/">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
@@ -94,11 +94,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Google Season of Docs&#39;22 Project Report](https://dev.to/asmit2952/google-season-of-docs22-project-report-3f1a)
+<!-- - [Google Season of Docs&#39;22 Project Report](https://dev.to/asmit2952/google-season-of-docs22-project-report-3f1a)
 - [Google Season of Docs&#39;22 with Weaviate!](https://dev.to/asmit2952/google-season-of-docs22-with-weaviate-4m0e)
 - [GNOME Asia 2022 - My first international conference](https://dev.to/asmit2952/gnome-asia-2022-my-first-international-conference-32ib)
 - [Google Summer of Code 2022 - Final Report | Faces of GNOME](https://dev.to/asmit2952/google-summer-of-code-2022-faces-of-gnome-47bl)
-- [Google Summer of Code with GNOME Foundation.](https://dev.to/asmit2952/google-summer-of-code-with-gnome-foundation-5adj)
+- [Google Summer of Code with GNOME Foundation.](https://dev.to/asmit2952/google-summer-of-code-with-gnome-foundation-5adj) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
