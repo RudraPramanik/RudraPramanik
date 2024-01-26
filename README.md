@@ -10,7 +10,7 @@
 
 - 💡 Always open to collaborating on projects and innovative ideas.
 
-- 💻 Learning [ReactNative](https://reactnative.dev/),[Rust](https://www.rust-lang.org/).
+- 💻 Learning [ReactNative](https://reactnative.dev/),[Go](https://go.dev/).
 
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
