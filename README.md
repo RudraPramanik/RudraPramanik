@@ -94,12 +94,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Google Season of Docs&#39;22 Project Report](https://dev.to/asmit2952/google-season-of-docs22-project-report-3f1a)
-- [Google Season of Docs&#39;22 with Weaviate!](https://dev.to/asmit2952/google-season-of-docs22-with-weaviate-4m0e)
-- [GNOME Asia 2022 - My first international conference](https://dev.to/asmit2952/gnome-asia-2022-my-first-international-conference-32ib)
-- [Google Summer of Code 2022 - Final Report | Faces of GNOME](https://dev.to/asmit2952/google-summer-of-code-2022-faces-of-gnome-47bl)
-- [Google Summer of Code with GNOME Foundation.](https://dev.to/asmit2952/google-summer-of-code-with-gnome-foundation-5adj) -->
-<!-- BLOG-POST-LIST:END
+- [A Comprehensive Empirical Analysis of Machine Learning Approaches for Multi-Criteria Large Language Model Framework Selection](https://doi.org/10.5281/zenodo.17549367)
+- [Machine Learning-Based Prognostics for Lithium-Ion Battery Degradation: A Comprehensive Comparative Analysis Using the Oxford Battery Dataset](https://doi.org/10.5281/zenodo.17545890)
+- [A Comprehensive Study and Implementation of Full-Stack Next.js Technology](https://doi.org/10.5281/zenodo.17343472)
+
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
 
