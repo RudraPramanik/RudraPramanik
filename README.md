@@ -100,15 +100,15 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 <!-- BLOG-POST-LIST:END -->
 
-## 🔝 Most used languages
+<!-- ## 🔝 Most used languages
 
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraPramanik&layout=compact&hide_border=true&theme=radical" />
-</p>
+</p> -->
 
 ---
 
-## 📕 Pinned Repositories
+<!-- ## 📕 Pinned Repositories -->
 
 <!-- <p align="center">
 <a href="https://github.com/Asmit2952/Asmit2952.github.io">
