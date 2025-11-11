@@ -4,13 +4,13 @@
 
 - 📖 Pursuing my Bachelor's in Engineering from [HSTU](https://hstu.ac.bd/).
 
-- 🎓 Currently Frontend developer at [Amsterdam, Netherlands](https://www.linkedin.com/company/white-citadel/).
+- 🎓 Currently Fullstack developer & AI Researcher.
 
 - 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate.
 
 - 💡 Always open to collaborating on projects and innovative ideas.
 
-- 💻 Learning [ReactNative](https://reactnative.dev/),[Go](https://go.dev/).
+- 💻 Learning [MLops](https://www.coursera.org/specializations/mlops-machine-learning-duke),[Go](https://www.boot.dev/).
 
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
@@ -54,6 +54,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![NextJS](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCss-563D7C?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-449419?style=for-the-badge&logo=langchain&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
