@@ -90,7 +90,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RudraPramanik&hide_border=true&theme=radical" />
 </p> -->
 
-## ✍🏻 Latest Blog Posts
+## ✍🏻 Academic Research & Articles
 
 <!-- BLOG-POST-LIST:START -->
 
