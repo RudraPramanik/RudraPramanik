@@ -47,6 +47,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧩 Libraries & Framework
 
@@ -83,12 +84,12 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 💻 Workspace
+<!-- ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
-## 📈 Stats
+<!-- ## 📈 Stats -->
 
 <!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RudraPramanik&show_icons=true&hide_border=true&theme=radical" />
@@ -154,6 +155,6 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ---
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> -->
